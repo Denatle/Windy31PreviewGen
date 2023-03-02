@@ -1,0 +1,10 @@
+{
+    "settings":{
+        "path_from": "AbsPath_to_backgrounds_folder",
+        "windy_path":  "AbsPath_to_windy_png",
+        "path_to":  "AbsPath_to_result_folder",
+        "offset": 10,
+        "random_rotate": 5,
+        "size": 2
+    }
+}
