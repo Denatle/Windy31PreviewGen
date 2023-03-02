@@ -1,8 +1,11 @@
 # Windy31PreviewGen
 That is a simple windy31 type preview generator
 
-### How to use:
+### Examples:
+![example1](https://media.discordapp.net/attachments/745587754439802931/1080783702243684392/0.png?width=440&height=247)![example2](https://media.discordapp.net/attachments/745587754439802931/1080783787446771722/3.png?width=247&height=247)
 
+
+### How to use:
  - Clone/Download repository
  - Set up the config
  - Add backgrounds to `backgrounds` folder
