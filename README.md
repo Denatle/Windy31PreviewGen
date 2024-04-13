@@ -19,9 +19,9 @@ That is a simple windy31 type preview generator
  - `windy_path` - AbsPath to windy.png
  - `path_to` - AbsPath to output folder
  - `offset` - size offset, default 10. If you see clipping or windy is
-   too small, then crank it up
+   too small crank it up
  - `random_rotate` - random rotation in degrees, default 5
- - `size` - size adaptation divider. If windy is too thin, reduce 
+ - `size` - size adaptation divider. Reduce if windy is too thin
 #### Requirements (not necessary for binary):
  - `python 3.11`
  - `pillow`
